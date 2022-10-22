@@ -8,7 +8,7 @@ menu = {'kola':10,
        'sut':10,
        'cay':100, 
        'sabun':16}
-print(type(menu['kola']))
+
 print("----Menu su sekildedir----")
 for i in menu:
     print(i)
